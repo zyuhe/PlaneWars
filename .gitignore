@@ -3,3 +3,4 @@
 bin/PlaneWars
 *.db
 src/*.o
+*/.gitkeep

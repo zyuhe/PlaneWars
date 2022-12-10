@@ -7,7 +7,7 @@ before make, download these:
 >sudo apt-get install freeglut3-dev
 >sudo apt-get install sqlite3
 
-then go plane_wars/src/
+then >mkdir bin if not exists, go plane_wars/src/
 
 >make -j4
 
